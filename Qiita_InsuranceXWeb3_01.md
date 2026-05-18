@@ -161,7 +161,7 @@ contract CampanellaReinsurancePool is ERC4626 {
 本記事は **要約版** である。
 動機の詳細・思想（漫画・音楽との3表現）・著者の詳しい背景・運営方針・ライセンス3段階の解説の全文は、**note 全文版** でお読みいただけます。
 
-📚 **note 全文版**：[公開時に追記]
+📚 **note 全文版**：https://note.com/sleepycat1234/n/n6ecec8b06ade
 
 ---
 
