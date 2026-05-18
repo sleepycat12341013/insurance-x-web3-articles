@@ -568,7 +568,7 @@ Web3 セキュリティの実績：
 
 🐦 **X（Twitter）**：[@lo_cmalu_ractu](https://x.com/lo_cmalu_ractu) — Web3 セキュリティ学習中・本シリーズの進捗を発信
 
-📚 **note 有料記事**：「Code4rena → Codehawks 移行ガイド｜元保険営業の Codehawks 入門」配信中。
+📚 **note 有料記事**：[Code4rena 終了。Codehawks に移行する前に知っておくべきこと（¥980）](https://note.com/sleepycat1234/n/n685c954ae14f) — 元保険営業の Codehawks 入門ガイド配信中。
 
 🔬 **GitHub（Stage A 開始時に公開）**：Campanella プロトコルのリポジトリ。
 Stage A は **Business Source License 1.1** で公開予定（改変可・商用利用は4年間制限・その後 Apache 2.0 自動移行）。

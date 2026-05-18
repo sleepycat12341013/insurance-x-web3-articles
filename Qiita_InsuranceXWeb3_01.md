@@ -168,6 +168,7 @@ contract CampanellaReinsurancePool is ERC4626 {
 ## 関連リンク
 
 - 前作：[【2026年7月終了】Code4rena、Codehawksへの移行ガイド｜Web3スマートコントラクト監査](https://qiita.com/sleepycat_web3/items/03218576b7bf0e4e6b36)
+- 📚 note 有料ガイド：[Code4rena 終了。Codehawks に移行する前に知っておくべきこと（¥980）](https://note.com/sleepycat1234/n/n685c954ae14f) — 元保険営業の Codehawks 入門
 - 🐦 X：[@lo_cmalu_ractu](https://x.com/lo_cmalu_ractu) — Web3 セキュリティ・本シリーズの進捗を発信
 - 🔬 GitHub：Stage A 開始時に公開予定（Business Source License 1.1）
 
